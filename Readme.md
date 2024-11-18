@@ -2,6 +2,9 @@
 
 A **fully-featured** and **highly customizable** Next.js v14 boilerplate designed to kickstart your projects with **modern tools** and **best practices**. Let’s build something amazing! 💻✨
 
+![image](https://github.com/user-attachments/assets/3ea95f66-8507-4299-9d62-e7f4088949ac)
+
+
 ---
 
 ## 🌟 Features
@@ -18,7 +21,7 @@ A **fully-featured** and **highly customizable** Next.js v14 boilerplate designe
 
 ### 🗄️ Database Options
 Flexibly choose from multiple database solutions:  
-- **Supabase** 🐾  
+- **Supabase** ⚡  
 - **Pocketbase** 📦  
 - **PostgreSQL** 🐘  
 - **LiteSQL** 💾  
@@ -59,27 +62,35 @@ Flexibly choose from multiple database solutions:
 
 ## 📄 Sample ```.env``` File
 
-```# Environment Variables
-NEXTAUTH_SECRET=your_nextauth_secret
-NEXTAUTH_URL=http://localhost:3000
-
-# Supabase
-SUPABASE_URL=your_supabase_url
-SUPABASE_ANON_KEY=your_supabase_anon_key
-SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
-
-# Pocketbase
-POCKETBASE_URL=your_pocketbase_url
-
-# PostgreSQL
-POSTGRES_HOST=your_postgres_host
-POSTGRES_PORT=5432
-POSTGRES_USER=your_postgres_user
-POSTGRES_PASSWORD=your_postgres_password
-POSTGRES_DB=your_postgres_db
-
-# LiteSQL
-LITESQL_DB_PATH=./path/to/your/sqlite.db```
+  ```
+  # Environment Variables
+  NEXTAUTH_SECRET=your_nextauth_secret
+  NEXTAUTH_URL=http://localhost:3000
+  
+  # Supabase
+  SUPABASE_URL=your_supabase_url
+  SUPABASE_ANON_KEY=your_supabase_anon_key
+  SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+  
+  # Pocketbase
+  POCKETBASE_URL=your_pocketbase_url
+  
+  # PostgreSQL
+  POSTGRES_HOST=your_postgres_host
+  POSTGRES_PORT=5432
+  POSTGRES_USER=your_postgres_user
+  POSTGRES_PASSWORD=your_postgres_password
+  POSTGRES_DB=your_postgres_db
+  
+  # LiteSQL
+  LITESQL_DB_PATH=./path/to/your/sqlite.db
+  # OAuth Providers (if needed)
+  GOOGLE_CLIENT_ID=your-google-client-id
+  GOOGLE_CLIENT_SECRET=your-google-client-secret
+  GITHUB_ID=your-github-id
+  GITHUB_SECRET=your-github-secret
+  ```
 
 ## 🎉 **Contributing**
-We’d love your help! Feel free to open issues or submit pull requests. Make sure to follow the coding standards enforced by ESLint and Prettier. ❤️
+We’d love your help! Feel free to open issues or submit pull requests. 
+Make sure to follow the coding standards enforced by ESLint and Prettier. ❤️
