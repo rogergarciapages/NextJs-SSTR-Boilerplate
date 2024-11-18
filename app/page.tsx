@@ -39,8 +39,8 @@ export default function Home() {
     <main className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800 py-12 px-4">
       <div className="container mx-auto max-w-7xl">
         <div className="text-center mb-16">
-          <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-            SSR (Simple Setup Roger)
+          <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r leading-[2em] from-purple-600 to-pink-600 bg-clip-text text-transparent">
+            SSR (Simple Setup, Roger!)
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300">
             The ultimate Next.js 14 starter template with everything you need
