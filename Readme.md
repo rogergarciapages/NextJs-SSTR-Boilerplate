@@ -89,4 +89,5 @@ Flexibly choose from multiple database solutions:
   ```
 
 ## 🎉 **Contributing**
-We’d love your help! Feel free to open issues or submit pull requests. Make sure to follow the coding standards enforced by ESLint and Prettier. ❤️
+We’d love your help! Feel free to open issues or submit pull requests. 
+Make sure to follow the coding standards enforced by ESLint and Prettier. ❤️
