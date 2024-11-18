@@ -2,6 +2,9 @@
 
 A **fully-featured** and **highly customizable** Next.js v14 boilerplate designed to kickstart your projects with **modern tools** and **best practices**. Let’s build something amazing! 💻✨
 
+![image](https://github.com/user-attachments/assets/3ea95f66-8507-4299-9d62-e7f4088949ac)
+
+
 ---
 
 ## 🌟 Features
