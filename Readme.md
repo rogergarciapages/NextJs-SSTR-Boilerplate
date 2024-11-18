@@ -18,7 +18,7 @@ A **fully-featured** and **highly customizable** Next.js v14 boilerplate designe
 
 ### 🗄️ Database Options
 Flexibly choose from multiple database solutions:  
-- **Supabase** 🐾  
+- **Supabase** ⚡  
 - **Pocketbase** 📦  
 - **PostgreSQL** 🐘  
 - **LiteSQL** 💾  
