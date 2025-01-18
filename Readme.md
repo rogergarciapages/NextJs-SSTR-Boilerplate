@@ -53,37 +53,25 @@ Flexibly choose from multiple database solutions:
 
 2. **Install dependencies**:
 
-    `npm install
-    # or
+    `npm install 
+    or
     yarn install`
 
-3. **Setup environment variables**:
+4. **Setup environment variables**:
     - Use the provided `.env.example` file as a template.
     - Update it with your configurations for Supabase, Pocketbase, PostgreSQL, or LiteSQL.
 
-## 📄 Sample `.env` File
+## 📄 Sample `.env` File includes
 
-  `Environment Variables
-  NEXTAUTH_SECRET=your_nextauth_secret
-  NEXTAUTH_URL=http://localhost:3000
+  # Environment Variables
   
   Supabase
-  SUPABASE_URL=your_supabase_url
-  SUPABASE_ANON_KEY=your_supabase_anon_key
-  SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
   
   Pocketbase
-  POCKETBASE_URL=your_pocketbase_url
   
   PostgreSQL
-  POSTGRES_HOST=your_postgres_host
-  POSTGRES_PORT=5432
-  POSTGRES_USER=your_postgres_user
-  POSTGRES_PASSWORD=your_postgres_password
-  POSTGRES_DB=your_postgres_db
-  
+
   LiteSQL
-  LITESQL_DB_PATH=./path/to/your/sqlite.db
   
   OAuth Providers (if needed)
   GOOGLE_CLIENT_ID=your-google-client-id
