@@ -63,34 +63,33 @@ Flexibly choose from multiple database solutions:
 
 ## 📄 Sample `.env` File
 
-  `
-  # Environment Variables
+  `Environment Variables
   NEXTAUTH_SECRET=your_nextauth_secret
   NEXTAUTH_URL=http://localhost:3000
   
-  # Supabase
+  Supabase
   SUPABASE_URL=your_supabase_url
   SUPABASE_ANON_KEY=your_supabase_anon_key
   SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
   
-  # Pocketbase
+  Pocketbase
   POCKETBASE_URL=your_pocketbase_url
   
-  # PostgreSQL
+  PostgreSQL
   POSTGRES_HOST=your_postgres_host
   POSTGRES_PORT=5432
   POSTGRES_USER=your_postgres_user
   POSTGRES_PASSWORD=your_postgres_password
   POSTGRES_DB=your_postgres_db
   
-  # LiteSQL
+  LiteSQL
   LITESQL_DB_PATH=./path/to/your/sqlite.db
-  # OAuth Providers (if needed)
+  
+  OAuth Providers (if needed)
   GOOGLE_CLIENT_ID=your-google-client-id
   GOOGLE_CLIENT_SECRET=your-google-client-secret
   GITHUB_ID=your-github-id
-  GITHUB_SECRET=your-github-secret
-  `
+  GITHUB_SECRET=your-github-secret`
 
 ## 🎉 **Contributing**
 We’d love your help! Feel free to open issues or submit pull requests. 
