@@ -55,7 +55,7 @@ Flexibly choose from multiple database solutions:
 
     ``` npm install
     # or
-    yarn install```
+    yarn install ```  
 
 3. **Setup environment variables**:
     - Use the provided ```.env.example``` file as a template.
