@@ -48,22 +48,22 @@ Flexibly choose from multiple database solutions:
 ## 🚀 Installation
 
 1. **Clone the repository**:  
-   ```git clone <repository-url>
-   cd <project-name>```
+   `git clone <repository-url>
+   cd <project-name>`
 
 2. **Install dependencies**:
 
-    ``` npm install
+    `npm install
     # or
-    yarn install ```  
+    yarn install`
 
 3. **Setup environment variables**:
-    - Use the provided ```.env.example``` file as a template.
+    - Use the provided `.env.example` file as a template.
     - Update it with your configurations for Supabase, Pocketbase, PostgreSQL, or LiteSQL.
 
-## 📄 Sample ```.env``` File
+## 📄 Sample `.env` File
 
-  ```
+  `
   # Environment Variables
   NEXTAUTH_SECRET=your_nextauth_secret
   NEXTAUTH_URL=http://localhost:3000
@@ -90,7 +90,7 @@ Flexibly choose from multiple database solutions:
   GOOGLE_CLIENT_SECRET=your-google-client-secret
   GITHUB_ID=your-github-id
   GITHUB_SECRET=your-github-secret
-  ```
+  `
 
 ## 🎉 **Contributing**
 We’d love your help! Feel free to open issues or submit pull requests. 
